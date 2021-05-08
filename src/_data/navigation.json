@@ -1,15 +1,15 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "Inicio",
       "url": "/"
     },
     {
-      "text": "About",
+      "text": "Quienes somos",
       "url": "/about-us/"
     },
     {
-      "text": "Work",
+      "text": "Episodios",
       "url": "/work/"
     },
     {
@@ -17,7 +17,7 @@
       "url": "/blog/"
     },
     {
-      "text": "Contact",
+      "text": "Contacto",
       "url": "/contact/"
     }
   ]
